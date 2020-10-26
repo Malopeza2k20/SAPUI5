@@ -1,7 +1,7 @@
 {
   "xsappname": "mta_MyFirstProject",
   "tenant-mode": "dedicated",
-  "description": "Security profile of called application iyguyg",
+  "description": "Security profile of called application test ok",
   "role-templates": [
     {
       "name": "Token_Exchange",
